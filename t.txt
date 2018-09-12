@@ -4,4 +4,6 @@ ccccc
 
 要保存的开发环境
 
-commit in liunx 
+commit in liunx
+
+edit in centos 7 
